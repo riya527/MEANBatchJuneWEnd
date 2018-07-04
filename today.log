@@ -463,3 +463,5 @@ var t = outer();
 undefined
 t;
 (2) [ƒ, ƒ]0: ƒ Inner1()1: ƒ Inner2()length: 2__proto__: Array(0)
+console.log("hi")
+hi
